@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  RootViewController.h
 //  SVSample
 //
 //  Created by subicura on 12. 1. 16..
@@ -8,8 +8,8 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
+@interface RootViewController : UIViewController
 
-- (IBAction)clickCallButton:(id)sender;
+- (IBAction)clickPostButton:(id)sender;
 
 @end
