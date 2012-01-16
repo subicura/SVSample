@@ -29,7 +29,6 @@
 		DC0F9E4014C3A1BA00F99B89 /* SVProgressHUD.m in Sources */ = {isa = PBXBuildFile; fileRef = DC0F9E3414C3A1BA00F99B89 /* SVProgressHUD.m */; settings = {COMPILER_FLAGS = "-fno-objc-arc"; }; };
 		DC0F9E4314C3A20A00F99B89 /* PostViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = DC0F9E4214C3A20A00F99B89 /* PostViewController.m */; };
 		DC0F9E4814C3A2CA00F99B89 /* JSONKit.m in Sources */ = {isa = PBXBuildFile; fileRef = DC0F9E4714C3A2CA00F99B89 /* JSONKit.m */; settings = {COMPILER_FLAGS = "-fno-objc-arc"; }; };
-		DC0F9E4B14C3A5C900F99B89 /* RootViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = DC0F9E4A14C3A5C900F99B89 /* RootViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -74,8 +73,6 @@
 		DC0F9E4214C3A20A00F99B89 /* PostViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PostViewController.m; sourceTree = "<group>"; };
 		DC0F9E4614C3A2CA00F99B89 /* JSONKit.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = JSONKit.h; sourceTree = "<group>"; };
 		DC0F9E4714C3A2CA00F99B89 /* JSONKit.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = JSONKit.m; sourceTree = "<group>"; };
-		DC0F9E4914C3A5C900F99B89 /* RootViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RootViewController.h; sourceTree = "<group>"; };
-		DC0F9E4A14C3A5C900F99B89 /* RootViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RootViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -128,8 +125,6 @@
 				DC0F9E0E14C3A15900F99B89 /* MainStoryboard.storyboard */,
 				DC0F9E1114C3A15900F99B89 /* ViewController.h */,
 				DC0F9E1214C3A15900F99B89 /* ViewController.m */,
-				DC0F9E4914C3A5C900F99B89 /* RootViewController.h */,
-				DC0F9E4A14C3A5C900F99B89 /* RootViewController.m */,
 				DC0F9E4114C3A20A00F99B89 /* PostViewController.h */,
 				DC0F9E4214C3A20A00F99B89 /* PostViewController.m */,
 				DC0F9E0314C3A15900F99B89 /* Supporting Files */,
@@ -285,7 +280,6 @@
 				DC0F9E4014C3A1BA00F99B89 /* SVProgressHUD.m in Sources */,
 				DC0F9E4314C3A20A00F99B89 /* PostViewController.m in Sources */,
 				DC0F9E4814C3A2CA00F99B89 /* JSONKit.m in Sources */,
-				DC0F9E4B14C3A5C900F99B89 /* RootViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
